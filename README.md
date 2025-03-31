@@ -1,8 +1,8 @@
-# Dalton Knapp
-- 👋 Hi, I’m Dalton Knapp
+# Dalton
+- 👋 Hi, I’m Dalton
 - 👀 I’m interested in Python, HTML, CSS, JavaScript, and more!
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me [knapptime_wv_alt@outlook.com](mailto://knapptime_wv_alt@outlook.com)
+- 📫 How to reach me? IdK
 
 <!---
 PortMaster1/PortMaster1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
