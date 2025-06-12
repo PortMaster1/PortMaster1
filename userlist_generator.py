@@ -41,7 +41,7 @@ class Generate:
 		return accounts
 	
 	def write_userfile(self, accounts):
-		with open("users.py", "w") as f:
+		with open("./authorize", "w") as f:
 			f.writelines(accounts)
 
 if __name__ == "__main__":
